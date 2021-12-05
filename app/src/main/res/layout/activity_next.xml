@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NextActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="-٦٢dp"
+        tools:layout_editor_absoluteY="-٢٨٣dp">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="100dp"
+            android:gravity="center|center_horizontal"
+            android:text="@string/complete_your_information"
+            android:textColor="#3E5BFB"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="200dp"
+            android:gravity="center"
+            android:text="@string/gender"
+            android:textColor="#0C0C0C"
+            android:textSize="30sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="159dp"
+            android:layout_marginTop="200dp"
+            android:text="@string/male"
+            android:textSize="30sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="300dp"
+            android:layout_marginTop="200dp"
+            android:text="@string/female"
+            android:textColor="#0C0C0C"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="300dp"
+            android:text="@string/weight"
+            android:textColor="#070707"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginTop="300dp"
+            android:background="#213CD5"
+            android:text="@string/subtraction"
+            android:textColor="#F0F1F4"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="245dp"
+            android:layout_marginTop="300dp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="350dp"
+            android:layout_marginTop="300dp"
+            android:text="@string/Addition"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="400dp"
+            android:text="@string/length"
+            android:textColor="#131313"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginTop="400dp"
+            android:text="@string/subtraction"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="245dp"
+            android:layout_marginTop="400dp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="350dp"
+            android:layout_marginTop="400dp"
+            android:text="@string/Addition"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="505dp"
+            android:text="@string/date_of_birth"
+            android:textColor="#0E0E0E"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="505dp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="605dp"
+            android:gravity="center|center_horizontal"
+            android:text="@string/save_date"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
