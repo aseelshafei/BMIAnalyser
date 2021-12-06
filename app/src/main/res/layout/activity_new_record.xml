@@ -18,7 +18,7 @@
                 android:layout_width="250dp"
                 android:layout_height="80dp"
                 android:layout_marginStart="100dp"
-                android:layout_marginTop="640dp"
+                android:layout_marginTop="600dp"
                 android:gravity="center|center_horizontal"
                 android:text="@string/save_date"
                 android:textSize="30sp" />
@@ -28,17 +28,17 @@
                 android:layout_width="200dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="200dp"
-                android:layout_marginTop="550dp" />
+                android:layout_marginTop="500dp" />
 
             <TextView
                 android:id="@+id/textView27"
                 android:layout_width="150dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="10dp"
-                android:layout_marginTop="550dp"
+                android:layout_marginTop="500dp"
                 android:gravity="center|center_horizontal"
                 android:text="@string/time"
-                android:textColor="#0E0E0E"
+                android:textColor="#318CFB"
                 android:textSize="34sp" />
 
             <TextView
@@ -46,17 +46,17 @@
                 android:layout_width="250dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="200dp"
-                android:layout_marginTop="450dp" />
+                android:layout_marginTop="400dp" />
 
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="150dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginTop="450dp"
+                android:layout_marginTop="400dp"
                 android:gravity="center|center_horizontal"
                 android:text="@string/date"
-                android:textColor="#0E0E0E"
+                android:textColor="#318CFB"
                 android:textSize="34sp" />
 
             <Button
@@ -64,7 +64,7 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="350dp"
-                android:layout_marginTop="350dp"
+                android:layout_marginTop="300dp"
                 android:text="@string/Addition"
                 android:textSize="30sp"
                 tools:ignore="DuplicateSpeakableTextCheck" />
@@ -74,14 +74,14 @@
                 android:layout_width="100dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="245dp"
-                android:layout_marginTop="350dp" />
+                android:layout_marginTop="300dp" />
 
             <Button
                 android:id="@+id/button13"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="190dp"
-                android:layout_marginTop="350dp"
+                android:layout_marginTop="300dp"
                 android:text="@string/subtraction"
                 android:textSize="30sp"
                 tools:ignore="DuplicateSpeakableTextCheck" />
@@ -91,7 +91,7 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="350dp"
-                android:layout_marginTop="250dp"
+                android:layout_marginTop="200dp"
                 android:text="@string/Addition"
                 android:textSize="25sp" />
 
@@ -100,18 +100,18 @@
                 android:layout_width="100dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="245dp"
-                android:layout_marginTop="250dp" />
+                android:layout_marginTop="200dp" />
 
             <TextView
                 android:id="@+id/textView19"
                 android:layout_width="150dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginTop="250dp"
+                android:layout_marginTop="200dp"
                 android:foregroundGravity="center_vertical|center"
                 android:gravity="center|center_horizontal"
                 android:text="@string/weigth"
-                android:textColor="#0B0A0A"
+                android:textColor="#318CFB"
                 android:textSize="30sp" />
         </RelativeLayout>
 
@@ -120,10 +120,10 @@
             android:layout_width="150dp"
             android:layout_height="50dp"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="350dp"
+            android:layout_marginTop="300dp"
             android:gravity="center|center_horizontal"
             android:text="@string/length"
-            android:textColor="#0E0E0E"
+            android:textColor="#318CFB"
             android:textSize="30sp" />
 
         <Button
@@ -131,7 +131,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginStart="190dp"
-            android:layout_marginTop="250dp"
+            android:layout_marginTop="200dp"
             android:background="#213CD5"
             android:text="@string/subtract"
             android:textColor="#F0F1F4"
@@ -146,6 +146,7 @@
             android:foregroundGravity="center|center_horizontal"
             android:gravity="center|center_horizontal|center_vertical"
             android:text="@string/new_record"
+            android:textColor="#318CFB"
             android:textSize="32sp"
             android:textStyle="bold" />
 

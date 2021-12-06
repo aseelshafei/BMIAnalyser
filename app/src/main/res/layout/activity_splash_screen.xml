@@ -15,8 +15,8 @@
         android:layout_marginStart="100dp"
         android:layout_marginTop="200dp"
         android:background="#3B50C5"
+        android:contentDescription="@string/todo1"
         android:foregroundGravity="center|center_horizontal"
-        app:srcCompat="@drawable/bm"
-        android:contentDescription="@string/todo" />
+        app:srcCompat="@drawable/bm" />
 
 </RelativeLayout>

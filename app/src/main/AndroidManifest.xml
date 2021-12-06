@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BMIAnalyser">
         <activity
+            android:name=".AddFood"
+            android:exported="false" />
+        <activity
             android:name=".NewRecord"
             android:exported="false" />
         <activity
@@ -30,8 +33,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
     </application>
 
 </manifest>
