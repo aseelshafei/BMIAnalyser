@@ -3,15 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_add_food.xml" value="0.15" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/drawable/custome_border.xml" value="0.1953125" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_add_food.xml" value="0.13" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_edit_food.xml" value="0.12" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_edit_food_details.xml" value="0.1" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_food_list.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_login.xml" value="0.10371376811594203" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_main.xml" value="0.10371376811594203" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_new_record.xml" value="0.15" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_next.xml" value="0.15" />
-        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_registration.xml" value="0.25" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_splash.xml" value="0.11639492753623189" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_splash1.xml" value="0.11639492753623189" />
         <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/foodactiv.xml" value="0.22" />
+        <entry key="..\:/Users/Subeh/AndroidStudioProjects/BMIAnalyser/app/src/main/res/layout/table_record.xml" value="0.22" />
       </map>
     </option>
   </component>

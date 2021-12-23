@@ -53,4 +53,14 @@
     <string name="name5">Name</string>
     <string name="todo3">todo</string>
     <string name="name1">name7</string>
+    <string name="name">Name</string>
+    <string name="edit_food_detalis">Edit Food Detalis</string>
+    <string name="todo7">TODO</string>
+    <string-array name="num">
+        <item>meet</item>
+        <item>chicken</item>
+        <item>fish</item>
+
+    </string-array>
+
 </resources>

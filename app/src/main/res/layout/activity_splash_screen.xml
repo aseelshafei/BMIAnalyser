@@ -2,9 +2,18 @@
 
 <RelativeLayout tools:context=".SplashScreen" android:gravity="center|center_horizontal" android:background="#3B50C5" android:layout_gravity="center" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <TextView android:layout_height="50dp" android:layout_width="100dp" android:textSize="34sp" android:textColorHint="#EDE8E8" android:textColor="#ECE6E6" android:text="@string/next" android:layout_marginBottom="50dp"
-        android:layout_marginEnd="45dp" android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true" android:id="@+id/textView2"/>
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/next"
+        android:textColor="#ECE6E6"
+        android:textColorHint="#EDE8E8"
+        android:textSize="34sp" />
 
     <ImageView
         android:id="@+id/imageView"
