@@ -1,13 +1,13 @@
 package com.example.bmianalyser;
 
 public class foodmodel {
-    String name,desc,cato;
+    String name,cal,cato;
     int img;
 
 
-    public foodmodel(String name, String desc, String cato, int img) {
+    public foodmodel(String name, String cal, String cato, int img) {
         this.name = name;
-        this.desc = desc;
+        this.cal = cal;
         this.cato = cato;
         this.img = img;
     }
@@ -20,12 +20,12 @@ public class foodmodel {
         this.name = name;
     }
 
-    public String getDesc() {
-        return desc;
+    public String getCal() {
+        return cal;
     }
 
-    public void setDesc(String desc) {
-        this.desc = desc;
+    public void setCal(String desc) {
+        this.cal = cal;
     }
 
     public String getCato() {
